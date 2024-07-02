@@ -19,15 +19,6 @@
 
 - 📫 How to reach me **siddheshbhadale@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SiddheshBhadale" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/siddhesh-bhadale-a3ab3b21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SiddheshBhadale" height="30" width="40" /></a>
-<!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SiddheshBhadale" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="SiddheshBhadale" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="SiddheshBhadale" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SiddheshBhadale" height="30" width="40" /></a> -->
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -45,3 +36,12 @@
 </p>
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SiddheshBhadale" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/siddhesh-bhadale-a3ab3b21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SiddheshBhadale" height="30" width="40" /></a>
+<!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SiddheshBhadale" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="SiddheshBhadale" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="SiddheshBhadale" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SiddheshBhadale" height="30" width="40" /></a> -->
+</p>
